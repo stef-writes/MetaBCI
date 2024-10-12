@@ -6,18 +6,6 @@ MetaBCI is an open-source platform for non-invasive brain computer interface. Th
 * brainflow: a high speed EEG online data processing framework.
 * brainstim: a simple and efficient BCI experiment paradigms design module. 
 
-This is the first release of MetaBCI, our team will continue to maintain the repository. If you need the handbook of this repository, please contact us by sending email to TBC_TJU_2022@163.com with the following information:
-* Name of your teamleader
-* Name of your university(or organization)
-
-We will send you a copy of the handbook as soon as we receive your information.
-
-## Paper
-
-If you find MetaBCI useful in your research, please cite:
-
-Mei, J., Luo, R., Xu, L., Zhao, W., Wen, S., Wang, K., ... & Ming, D. (2023). MetaBCI: An open-source platform for brain-computer interfaces. Computers in Biology and Medicine, 107806.
-
 And this open access paper can be found here: [MetaBCI](https://www.sciencedirect.com/science/article/pii/S0010482523012714)
 
 ## Content
@@ -37,7 +25,6 @@ And this open access paper can be found here: [MetaBCI](https://www.sciencedirec
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 
-## What are we doing?
 
 ### The problem
 
@@ -122,20 +109,6 @@ The goal of the Meta-BCI is to make researchers focus on improving their own BCI
    ```sh
    pip install -e .
    ```
-## Who are we?
-
-The MetaBCI project is carried out by researchers from 
-- Academy of Medical Engineering and Translational Medicine, Tianjin University, China
-- Tianjin Brain Center, China
-
-
-## What do we need?
-
-**You**! In whatever way you can help.
-
-We need expertise in programming, user experience, software sustainability, documentation and technical writing and project management.
-
-We'd love your feedback along the way.
 
 ## Contributing
 
@@ -147,13 +120,8 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the GNU General Public License v2.0 License. See `LICENSE` for more information.
-
 ## Contact
 
-Email: TBC_TJU_2022@163.com
 
 ## Acknowledgements
 - [MNE](https://github.com/mne-tools/mne-python)
